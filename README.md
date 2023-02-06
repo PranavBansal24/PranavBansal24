@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on front-end web developing.
+- 🔭 I’m currently working on Data Analysis and Front-End Eeb Developing.
 - 🌱 I’m currently learning javascript and react.
 - 👯 I’m looking to collaborate on any project related to developing or designing.
 - 🤔 I’m looking for help with finding new projects and opportunities.
